@@ -97,6 +97,6 @@ var CKBUILDER_CONFIG = {
 		'stylesheetparser' : 1
 	},
 	languages : {
-		'en' : 1,
+		'ru' : 1,
 	}
 };
